@@ -10,7 +10,7 @@
 using namespace std;
 const LL mod = 1000000007;
 LL a, b, ans, A;
-
+//lhq ak ioi
 LL read() {
   LL s = 0, f = 0; char ch = getchar();
   while (!isdigit(ch)) f |= (ch == '-'), ch = getchar();
